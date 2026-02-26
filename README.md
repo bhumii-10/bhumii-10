@@ -4,15 +4,18 @@
 <h3 align="center">B.Tech in Information Technology</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=640&lines=Exploring+Core+IT+Subjects;Learning+C,+C%2B%2B+and+Java;Aspiring+Software+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Core+IT+Subjects;Learning+C,+C%2B%2B+and+Java;Aspiring+Software+Developer" />
 </p>
----
+
+<br>
+
+### 👩‍💻 About Me
 
 - 🎓 Pursuing B.Tech in Information Technology  
 - 🌱 Exploring core IT subjects and programming fundamentals  
 - 💻 Currently strengthening problem-solving skills  
 
----
+<br>
 
 ### 🛠️ Languages & Tools
 
@@ -24,19 +27,8 @@
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </p>
 
----
+<br>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhumii-10&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumii-10&theme=tokyonight"/>
-</p>
-
----
 
 ### 📫 Connect with Me
 
