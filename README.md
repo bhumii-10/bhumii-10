@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bhumi Chotaliya</h1>
+<h3 align="center">B.Tech in Information Technology</h3>
 
-<!--
-**bhumii-10/bhumii-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🎓 Pursuing B.Tech in Information Technology  
+- 🌱 Exploring core IT subjects and programming fundamentals  
+- 💻 Currently strengthening problem-solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages I Know
+- C  
+- C++  
+- Java  
+
+---
+
+## 📫 Connect with Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/bhumi-chotaliya-656872269  
+- 📧 Email: bhumi.chotaliya07@gmail.com
