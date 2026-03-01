@@ -65,11 +65,10 @@ Contributed to frontend setup, resolved Tailwind & PostCSS configuration issues,
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhumii-10&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhumii-10&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://ghchart.rshah.org/7c3aed/bhumii-10" />
 </p>
 
 ---
