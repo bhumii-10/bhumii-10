@@ -1,55 +1,88 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Bhumi%20Chotaliya&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:9333ea&height=190&section=header&text=Bhumi%20Chotaliya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<h3 align="center">B.Tech in Information Technology</h3>
+<h3 align="center">✨ B.Tech Information Technology Student | Aspiring Software Developer ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3000&color=6A5ACD&center=true&vCenter=true&width=750&lines=Exploring+Core+IT+Subjects;Learning+C,+C%2B%2B+and+Java;Frontend+and+Backend+Enthusiast;Aspiring+Software+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=8B5CF6&center=true&vCenter=true&width=750&lines=Exploring+Core+Computer+Science;Frontend+%2B+Backend+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhumii-10&label=Profile%20Views&color=6A5ACD&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=bhumii-10&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Information Technology**
-- 🌱 Exploring **core IT subjects and programming fundamentals**
-- 💻 Strengthening **problem-solving skills**
-
+🎓 B.Tech in Information Technology  
+💡 Passionate about clean UI & problem-solving  
+🚀 Currently learning frontend architecture, CS fundamentals & real-world Git workflows  
+📚 Always excited to build and contribute to meaningful projects  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java" />
 </p>
 
-### 🌐 Web
+### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,tailwind" />
 </p>
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 ---
 
+## 🚀 Featured Project
+
+### 📘 EasyNotes – Student Notes Platform
+
+A minimal and efficient web platform designed to make academic notes structured and accessible for students.
+
+✨ Clean & simple UI  
+✨ Organized notes navigation  
+✨ Student-centric design  
+✨ Well-structured documentation  
+
+🔗 Repository: https://github.com/bhumii-10/EasyNotes  
+
+---
+
+## 🤝 Open Source Contribution
+
+### 🚀 Mission 1.0
+
+Contributed to frontend setup, resolved Tailwind & PostCSS configuration issues, structured components, and integrated interactive 3D Porsche models for enhanced UI experience.
+
+🔗 Repository: https://github.com/DHRUV-SAVE21/Mission_1.0  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhumii-10&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhumii-10&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
 
 ## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhumi-chotaliya-656872269">
-    <img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:bhumi.chotaliya07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=140&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:4f46e5&height=140&section=footer"/>
