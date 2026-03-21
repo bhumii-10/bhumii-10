@@ -2,7 +2,7 @@
 
 <h3 align="center">✨ B.Tech Information Technology Student | Aspiring Software Developer ✨</h3>
 
-
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=8B5CF6&center=true&vCenter=true&width=750&lines=Exploring+Core+Computer+Science;Frontend+%2B+Backend+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New" />
 </p>
 
