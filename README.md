@@ -62,9 +62,14 @@ A minimal and efficient web platform designed to make academic notes structured 
 
 ### 🚀 Mission 1.0
 
-Contributed to frontend setup, resolved Tailwind & PostCSS configuration issues, structured components, and integrated interactive 3D Porsche models for enhanced UI experience.
+Actively contributed to the development of the frontend, including building UI components, resolving Tailwind & PostCSS configuration issues, and integrating interactive 3D Porsche models to enhance user experience.
 
-🔗 Repository: https://github.com/DHRUV-SAVE21/Mission_1.0  
+✨ Developed and structured frontend components  
+✨ Improved UI/UX and responsiveness  
+✨ Fixed Tailwind & PostCSS configuration issues  
+✨ Integrated interactive 3D elements  
+
+🌐 Live Demo: https://mission-1-0.vercel.app/
 
 ---
 
