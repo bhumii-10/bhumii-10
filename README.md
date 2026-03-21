@@ -36,6 +36,9 @@
 ### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://cdn.simpleicons.org/vmware/white" 
+       style="background-color:#0d1117; padding:10px; border-radius:10px;" 
+       height="48"/>
 </p>
 
 ---
